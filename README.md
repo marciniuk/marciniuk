@@ -15,8 +15,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/></a>
     <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js?ref=pyxofy" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/></a>
-    <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50"/></a><br>
-    <a href="https://jekyllrb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="50" height="50"/></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50"/></a>
     <a href="https://www.microsoft.com/pl-pl/windows?r=1" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" width="50" height="50"/></a>
     <a href="https://wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/></a>
     <a href="https://wikipedia.org/wiki/Bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/></a>
