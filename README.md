@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://marcini.uk/assets/img/logo.svg" alt="Marciniuk" /> </p>
-
 <h1 align="center">
   Hi 👋, I'm Adrian Marciniuk<br>
   <sub>Coffee instead of blood</sub><br>
