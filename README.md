@@ -3,12 +3,12 @@
     <img src="https://komarev.com/ghpvc/?username=marciniuk&label=Profile%20views&color=213967&style=flat" alt="Profile views" />
   </a>
   <br>
-  Hi 👋, I'm Adrian Marciniuk<br>
+  <span align="absmiddle">Hi <img width="45" align="absmiddle" src="https://raw.githubusercontent.com/marciniuk/marciniuk/refs/heads/main/hand-wave.svg" alt="tools"/>, I'm Adrian Marciniuk</span><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&center=true&width=460&lines=Full-stack+developer;Coffee+instead+of+blood" alt="Typing SVG" /><br>
 </h1>
 
 <h2 align="center">
-  🧰 Languages & Tools<br><br>
+  <span align="absmiddle"><img width="32" align="absmiddle" src="https://raw.githubusercontent.com/marciniuk/marciniuk/refs/heads/main/tools.svg" alt="tools"/> Languages & Tools</span><br><br>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/></a>
@@ -26,12 +26,12 @@
 
 
 <h2 align="center">
-  📊 Stats<br><br>
+  <span align="absmiddle"><img width="32" align="absmiddle" src="https://raw.githubusercontent.com/marciniuk/marciniuk/refs/heads/main/chart.svg" alt="tools"/> Stats</span><br><br>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=marciniuk&theme=marciniuk&hide_border=true&mode=weekly&background=213967&border=213967&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="Streak" />
   </p>
 </h2>
 
 <p align="center">
-  <sub>Working with ❤️ and too much coffee.</sub>
+  <sub><span align="absmiddle">Working with <img width="20" align="absmiddle" src="https://raw.githubusercontent.com/marciniuk/marciniuk/refs/heads/main/heart.svg" alt="tools"/> and too much coffee.</span></sub>
 </p>
